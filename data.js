@@ -1,7 +1,9 @@
 const weapons = [
-    { tier: "A", name: "Glock 17", damage: 34, recoil: "Low", fireRate: "Fast" },
-    { tier: "A", name: "Glock 19", damage: 33, recoil: "Low", fireRate: "Fast" },
-    { tier: "B", name: "AK-74", damage: 42, recoil: "High", fireRate: "Medium" },
-    { tier: "B", name: "M4A1", damage: 40, recoil: "Medium", fireRate: "Fast" },
-    { tier: "C", name: "Remington 870", damage: 80, recoil: "Very High", fireRate: "Slow" }
+    { tier: "1", name: "Glock 17", level: "Level 5" },
+    { tier: "1", name: "Glock 19", level: "Level 5" },
+    { tier: "1", name: "Pistol .50", level: "Level 5" },
+    { tier: "2", name: "SMG", level: "Level 4" },
+    { tier: "2", name: "Micro SMG", level: "Level 4" },
+    { tier: "3", name: "AK-74", level: "Level 3" },
+    { tier: "3", name: "M4A1", level: "Level 3" }
 ];
